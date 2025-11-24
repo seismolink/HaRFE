@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software if you use it."
+authors:
+  - family-names: Link
+    given-names: Frederik
+title: "HaRFE"
+version: "1.0.0"
+date-released: 2025-11-24
+url: https://github.com/seismolink/HaRFE
